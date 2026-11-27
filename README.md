@@ -11,21 +11,15 @@ Admin loader, PUBG, INSERT, F8. Windows 10/11, Steam.
 
 ## Notes
 
-## Notes
-
 - keep loader and config.json together
 - close other overlays before attaching
 - first launch after a patch is slower while offsets load
 
 ## Compatibility
 
-## Compatibility
-
 - Windows 10 21H2 and newer, Windows 11
 - borderless and windowed fullscreen
 - 16:9 and 21:9, DPI up to 150%
-
-## FAQ
 
 ## FAQ
 
@@ -39,8 +33,6 @@ Admin loader, PUBG, INSERT, F8. Windows 10/11, Steam.
 
 ## Troubleshooting
 
-## Troubleshooting
-
 **No overlay.** Use borderless or windowed fullscreen, exclusive mode hides every overlay.
 
 **Menu does not open.** Elevate the loader, INSERT is ignored otherwise.
@@ -50,8 +42,6 @@ Admin loader, PUBG, INSERT, F8. Windows 10/11, Steam.
 **Values wrong after patch.** Offsets are version bound, wait for a new build.
 
 **OBS flicker.** Streamproof on plus game capture.
-
-## Architecture
 
 ## Architecture
 
